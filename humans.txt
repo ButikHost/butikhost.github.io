@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# SOCIAL MEDIA LINKS
+
+    Twitter: https://twitter.com/butikhost
+    Facebook: https://www.facebook.com/butikhost
+
+# TEAM
+    We're Hiring
+    Butikhost - @butikhost
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
